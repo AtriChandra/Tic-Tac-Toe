@@ -13,7 +13,7 @@ Reset Game: Reset the current game to the initial state without refreshing the p
 
 
 
-**Development**
+****Development********************************
 
 **HTML**
 
