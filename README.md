@@ -1,11 +1,10 @@
 # Tic-Tac-Toe
 
-**Tic Tac Toe Game**
-
+🆃🅸🅲  🆃🅰🅲  🆃🅾🅴  🅶🅰🅼🅴
 This is a simple Tic Tac Toe game implemented using JavaScript, HTML, and CSS. The game includes features for starting a new game and resetting the current game.
 
 
-**Features**
+🅵🅴🅰🆃🆄🆁🅴🆂
 
 Interactive Gameplay: Play the classic Tic Tac Toe game against another player.
 New Game: Start a new game at any time.
@@ -13,7 +12,7 @@ Reset Game: Reset the current game to the initial state without refreshing the p
 
 
 
-****Development****
+🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃
 
 **HTML**
 
